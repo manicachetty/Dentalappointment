@@ -427,6 +427,4 @@ Once you have finished testing the lab, follow these instructions to delete the 
 
 - Delete the **LexFunction** stack.
 
-## Survey
-Please help us to provide your feedback [here](https://amazonmr.au1.qualtrics.com/jfe/form/SV_b7mXqfAaiIZUnn8?Session=Lab2).
-Participants who complete the surveys from AWS Innovate Online Conference - AI & Machine Learning Edition will receive a gift code for USD25 in AWS credits. AWS credits will be sent via email by 31 March, 2021.s
+
